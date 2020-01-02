@@ -11,12 +11,12 @@ Repator is a helper tool designed to automatize the process of report writing, i
     cd repator
     pip3 install -r requirements.txt
 
-## Update
+### Update
     cd repator
     git pull
     pip3 install -r requirements.txt
 
-## Start
+### Start
     cd repator
     ./repator.py
 or
